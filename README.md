@@ -1,6 +1,6 @@
 # Darshankohat
 # About Me:
-**I am currently working on** ` web Applications.
+**I am currently working on** `web Applications.
 **I am looking to collaborate on** Agentic AI frameworks, full-stack web projects.
 **I am looking for help with** Optimizing large-scale multimodal model deployments and advanced cloud architecture scaling.
 **I am currently learning** Complex agentic workflows.
@@ -18,10 +18,10 @@
 ![](https://streak-stats.demolab.com/?user=Darshankohat07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Darshankohat07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ðŸ† GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Darshankohat07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ðŸ” Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Darshankohat07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
