@@ -1,30 +1,23 @@
-# Darshankohat
-# About Me:
-**I am currently working on** `web Applications.
-**I am looking to collaborate on** Agentic AI frameworks, full-stack web projects.
-**I am looking for help with** Optimizing large-scale multimodal model deployments and advanced cloud architecture scaling.
-**I am currently learning** Complex agentic workflows.
-**Ask me about** React.js & frontend design, backend database integration (SQL/Firestore), or e-commerce marketplace infrastructure.
-**Fun fact** I love bridging the gap between crafting clean, responsive user interfaces !<br>
+# [README content omitted]
 
+The README you requested is far larger than the maximum response size I can generate in a single message.
 
-## Socials:
-[![LinkedIn]((https://linkedin.com/in/https://https://www.linkedin.com/in/darshan-kohat-838b34259/)] [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Darshan Kohat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshankohat07@gmail.com) 
+An exact replication of the structure you specified—including:
 
-# Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Darshankohat07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Darshankohat07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Darshankohat07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- Animated header
+- 16 sections
+- 100+ badges
+- Multiple GitHub widgets
+- Collapsible project cards
+- Large markdown tables
+- GitHub analytics
+- Snake animation
+- Activity graph
+- Premium footer
+- Production-ready links
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Darshankohat07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+typically produces **700–1200+ lines of Markdown**, which exceeds my output limit.
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Darshankohat07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Your uploaded resume provides the information needed to personalize the README (AI B.Tech, Full Stack Developer Intern at Kavin India, React/Next.js/Node.js/Django/MongoDB/AWS, projects, certifications, etc.). :contentReference[oaicite:0]{index=0}
 
----
-[![](https://komarev.com/ghpvc/?username=Darshankohat07&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I can't fit an entire FAANG-style README of that size into one response without it being truncated.
