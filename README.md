@@ -35,9 +35,8 @@ const darshan = {
     learning: [
         "System Design",
         "Cloud",
-        "DevOps",
-        "GenAI",
-        "Microservices"
+        "Data Engineering",
+        "AI Automations"
     ],
     askMeAbout: [
         "React",
