@@ -64,7 +64,7 @@ const darshan = {
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/darshan-kohat-838b34259/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
@@ -72,7 +72,7 @@ const darshan = {
 <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Darshankohat07/Insta-Agent-Autonomous-Social-Media-Content-Manager">
 <img src="https://skillicons.dev/icons?i=github" width="48"/>
 </a>
 
@@ -85,7 +85,7 @@ const darshan = {
 ## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css"/>
 </p>
 
 ---
@@ -93,7 +93,7 @@ const darshan = {
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,django"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,"/>
 </p>
 
 ---
@@ -279,7 +279,7 @@ while(alive){
 
 <p align="center">
 
-<a href="https://github.com/sponsors/YOUR_USERNAME">
+<a href="https://github.com/sponsors/Darshankohat07">
 <img src="https://img.shields.io/badge/Sponsor-GitHub-pink?style=for-the-badge&logo=github"/>
 </a>
 
