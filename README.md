@@ -22,7 +22,7 @@
 const darshan = {
     location: "Nagpur, Maharashtra 🇮🇳",
     education: "B.Tech Artificial Intelligence",
-    role: "Full Stack Web Developer",
+    role: "AI Web Developer", "Data Engineer"
     currently: "Full Stack Developer Intern",
     focus: [
         "React.js",
