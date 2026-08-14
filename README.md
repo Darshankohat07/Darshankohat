@@ -34,7 +34,7 @@ const darshan = {
     ],
     learning: [
         "System Design",
-        "Cloud",
+        "GCP Cloud",
         "Data Engineering",
         "AI Automations"
     ],
