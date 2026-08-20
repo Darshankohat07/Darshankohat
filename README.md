@@ -26,14 +26,11 @@ const darshan = {
     currently: "Full Stack Developer Intern",
     focus: [
         "React.js",
-        "Next.js",
-        "Node.js",
         "AI Automation",
         "REST APIs",
         "MongoDB"
     ],
     learning: [
-        "System Design",
         "GCP Cloud",
         "Data Engineering",
         "AI Automations"
